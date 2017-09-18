@@ -6,7 +6,5 @@ def turn_count(board)
     end
   end
   turns
-  false
 end
 
-turn_count(["O", " ", " ", " ", "X", " ", " ", " ", "X"])
